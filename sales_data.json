@@ -1,0 +1,122 @@
+[
+  {
+    "region": "North",
+    "year": 2020,
+    "sales": 120000
+  },
+  {
+    "region": "North",
+    "year": 2021,
+    "sales": 135000
+  },
+  {
+    "region": "North",
+    "year": 2022,
+    "sales": 150000
+  },
+  {
+    "region": "North",
+    "year": 2023,
+    "sales": 165000
+  },
+  {
+    "region": "North",
+    "year": 2024,
+    "sales": 178000
+  },
+  {
+    "region": "North",
+    "year": 2025,
+    "sales": 190000
+  },
+  {
+    "region": "South",
+    "year": 2020,
+    "sales": 95000
+  },
+  {
+    "region": "South",
+    "year": 2021,
+    "sales": 110000
+  },
+  {
+    "region": "South",
+    "year": 2022,
+    "sales": 130000
+  },
+  {
+    "region": "South",
+    "year": 2023,
+    "sales": 145000
+  },
+  {
+    "region": "South",
+    "year": 2024,
+    "sales": 160000
+  },
+  {
+    "region": "South",
+    "year": 2025,
+    "sales": 172000
+  },
+  {
+    "region": "East",
+    "year": 2020,
+    "sales": 100000
+  },
+  {
+    "region": "East",
+    "year": 2021,
+    "sales": 115000
+  },
+  {
+    "region": "East",
+    "year": 2022,
+    "sales": 125000
+  },
+  {
+    "region": "East",
+    "year": 2023,
+    "sales": 135000
+  },
+  {
+    "region": "East",
+    "year": 2024,
+    "sales": 148000
+  },
+  {
+    "region": "East",
+    "year": 2025,
+    "sales": 160000
+  },
+  {
+    "region": "West",
+    "year": 2020,
+    "sales": 85000
+  },
+  {
+    "region": "West",
+    "year": 2021,
+    "sales": 95000
+  },
+  {
+    "region": "West",
+    "year": 2022,
+    "sales": 110000
+  },
+  {
+    "region": "West",
+    "year": 2023,
+    "sales": 125000
+  },
+  {
+    "region": "West",
+    "year": 2024,
+    "sales": 138000
+  },
+  {
+    "region": "West",
+    "year": 2025,
+    "sales": 150000
+  }
+]

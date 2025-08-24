@@ -1,0 +1,102 @@
+[
+    {
+        "country": "India",
+        "year": 2018,
+        "population": 1352642280
+    },
+    {
+        "country": "India",
+        "year": 2019,
+        "population": 1366417754
+    },
+    {
+        "country": "India",
+        "year": 2020,
+        "population": 1380004385
+    },
+    {
+        "country": "India",
+        "year": 2021,
+        "population": 1393409038
+    },
+    {
+        "country": "India",
+        "year": 2022,
+        "population": 1407563842
+    },
+    {
+        "country": "USA",
+        "year": 2018,
+        "population": 326687501
+    },
+    {
+        "country": "USA",
+        "year": 2019,
+        "population": 328239523
+    },
+    {
+        "country": "USA",
+        "year": 2020,
+        "population": 331002651
+    },
+    {
+        "country": "USA",
+        "year": 2021,
+        "population": 331893745
+    },
+    {
+        "country": "USA",
+        "year": 2022,
+        "population": 333287557
+    },
+    {
+        "country": "China",
+        "year": 2018,
+        "population": 1392730000
+    },
+    {
+        "country": "China",
+        "year": 2019,
+        "population": 1397715000
+    },
+    {
+        "country": "China",
+        "year": 2020,
+        "population": 1439323776
+    },
+    {
+        "country": "China",
+        "year": 2021,
+        "population": 1444216107
+    },
+    {
+        "country": "China",
+        "year": 2022,
+        "population": 1448471400
+    },
+    {
+        "country": "Brazil",
+        "year": 2018,
+        "population": 209469333
+    },
+    {
+        "country": "Brazil",
+        "year": 2019,
+        "population": 211049527
+    },
+    {
+        "country": "Brazil",
+        "year": 2020,
+        "population": 212559417
+    },
+    {
+        "country": "Brazil",
+        "year": 2021,
+        "population": 213993437
+    },
+    {
+        "country": "Brazil",
+        "year": 2022,
+        "population": 214326223
+    }
+]
