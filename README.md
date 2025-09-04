@@ -86,13 +86,6 @@ json-data-analysis/
    ```  
 4. Open and execute the Jupyter Notebooks in the `notebooks/` folder.  
 
----
-
-## 📊 Example Visualizations  
-*(Add screenshots of generated plots in the `outputs/` folder to enhance presentation.)*  
-
----
-
 ## 👩‍💻 Author  
 **Shalini Saurav**  
 Aspiring Data Scientist | Exploring Python, Pandas & Data Visualization  
